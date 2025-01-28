@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+
+# Логи
+logs
+*.log
+
+# Среда выполнения
+.env
+
+# Скомпилированные файлы
+dist
+build
+
+# IDE или редакторы
+.vscode/*
+.idea
+
+# ОС-specific файлы
+.DS_Store
+Thumbs.db
